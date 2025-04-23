@@ -37,7 +37,8 @@ Aplicación web para consultar el clima actual de cualquier ciudad usando una AP
 ## 📫 Contacto
 
 - **GitHub:** [@Sam-DevOps0](https://github.com/Sam-DevOps0)
-- **Correo:** samueldavidmolina2007@gmail.com _(puedes poner tu real si quieres)_
+- **Linkedin**[@Samuel Molina]()
+- **Correo:** samueldavidmolina2007@gmail.com
 
 ---
 
