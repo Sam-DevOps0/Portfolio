@@ -13,14 +13,14 @@ Este repositorio contiene mi portafolio personal en línea, hecho con HTML y CSS
 ### 🚗 App de escritorio para concesionario
 Sistema en C# y SQL Server para gestionar clientes, vehículos, ventas, alquileres y facturación.
 
-🔗 Repositorio: [Ver proyecto](https://github.com/Sam-DevOps0/concesionario)
+🔗 Repositorio: [Ver proyecto](https://github.com/Sam-DevOps0/URP-Concesionario)
 
 ---
 
 ### 🌤️ App web del clima
 Aplicación web para consultar el clima actual de cualquier ciudad usando una API pública.
 
-🔗 Repositorio: [Ver proyecto](https://github.com/Sam-DevOps0/app-clima)
+🔗 Repositorio: [Ver proyecto](https://github.com/Sam-DevOps0/Weather)
 
 ---
 
