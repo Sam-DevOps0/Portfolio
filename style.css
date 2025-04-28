@@ -24,7 +24,7 @@
     header h1 {
       margin: 0;
       font-size: 2.5rem;
-      animation-duration: 0.2s;
+      animation-duration: 0.5s;
       animation-name: slidein;
     }
 
