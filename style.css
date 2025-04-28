@@ -41,6 +41,8 @@
 
     header p {
       font-size: 1.1rem;
+      animation-duration: 0.5s;
+      animation-name: slidein;
     }
 
     .container {
