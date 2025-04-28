@@ -28,6 +28,12 @@
       animation-name: slidein;
     }
 
+    header p {
+      font-size: 1.1rem;
+      animation-duration: 0.5s;
+      animation-name: slidein;
+    }
+
     @keyframes slidein {
       from {
         margin-left: 100%;
@@ -37,12 +43,6 @@
         margin-left: 0%;
         width: 100%;
       }
-    }
-
-    header p {
-      font-size: 1.1rem;
-      animation-duration: 0.5s;
-      animation-name: slidein;
     }
 
     .container {
