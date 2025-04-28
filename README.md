@@ -4,7 +4,7 @@
 
 Este repositorio contiene mi portafolio personal en línea, hecho con HTML y CSS, publicado usando **GitHub Pages**.
 
-🔗 Puedes verlo aquí: [sam-devops0.github.io/Portfolio](https://sam-devops0.github.io/Portfolio)
+🔗 Puedes verlo aquí: [Ver Portafolio](https://sam-devops0.github.io/Portfolio)
 
 ---
 
